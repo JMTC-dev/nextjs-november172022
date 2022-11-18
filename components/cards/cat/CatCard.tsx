@@ -15,11 +15,11 @@ const CatCard: React.FC<ICatCard> = ({ tag, title, body, author, time }) => {
       <div className={styles.card}>
         <div className={styles.card__header}>
           <Image
-            src="https://place.dog/600/400"
+            src="https://place.dog/600/300"
             alt="card__image"
             className={styles.card__image}
             width="600"
-            height="400"
+            height="200"
           />
         </div>
         <div className={styles.card__body}>
