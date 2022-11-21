@@ -1,8 +1,6 @@
 import { IAuthButton } from './AuthButton';
 
-const base: IAuthButton = {
-  sampleTextProp: 'Hello World!',
-};
+const base: IAuthButton = {};
 
 export const mockAuthButtonProps = {
   base,
