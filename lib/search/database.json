@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Dog",
+    "title": "This is a link to a search result about dogs",
+    "text": "Dogs can bark really loud. Description of the search result, very accurate and true."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Cat",
+    "title": "This is a link to a search result about cats",
+    "text": "Cats can meow really loud. Description of the search result, very accurate and true."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Turtle",
+    "title": "This is a link to a search result about turtles",
+    "text": "Turtles move really slow. Description of the search result, very accurate and true."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Shark",
+    "title": "This is a link to a search result about sharks",
+    "text": "Sharks have a strong bite. Description of the search result, very accurate and true."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Cabbage",
+    "title": "This is a link to a search result about cabbage",
+    "text": "Cabbage has some decent nutrition. Description of the search result, very accurate and true."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Broccoli",
+    "title": "This is a link to a search result about broccoli",
+    "text": "Broccoli is good food, similar to cabbage. Description of the search result, very accurate and true."
+  }
+]
