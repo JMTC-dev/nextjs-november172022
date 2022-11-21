@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps<IResults> = async ({
   if (searchTerm && searchTerm.length > 0) {
     // 2
     const response = await fetch(
-      `http://nextjs-november172022.vercel.app/api/search`,
+      `https://nextjs-november172022.vercel.app/api/search`,
       {
         body: JSON.stringify({ searchTerm }),
         headers: {
